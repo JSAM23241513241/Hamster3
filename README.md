@@ -12,7 +12,8 @@ https://www.java-hamster-modell.de/index.html
 - Entfernen von veralteten Datentypen (Observable, )
 - Abbau von Compiler-Warnungen durch Nutzung zeigermäßerer Code-Strukturen
 - Umstellung auf das Geräte-Look&Feel
-- Dark Theme
+- Dunkles Systemthema, um die Lesbarkeit des Quellcodes am Beamer zu verbessern
+- Anpassungen am Lexer für Python und Java, sodass nun Methoden als <b>fett</b> dargestellt werden, um die korrekte Schreibweise eindeutiger zu machen
 - Update der verwendeten Grafiken
 - Anpassungen am User-Interface um die Nutzung auf Touch-Geräten zu vereinfachen
 - Hinzufügen einer Skalierungs-Option für die Menüleiste in der hamster.properties um das Anleiten durch Lehrkräfte zu vereifachen (Bessere Sichbarkeit am Beamer)
